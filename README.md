@@ -1,7 +1,10 @@
 ### Hi there 👋 I am Udeme 
 
 # 💫 About Me:
-🔭 I’m currently working on KippaPay & MVT Projects<br><br>🌱 I’m currently learning Flutter App Automation and Laravel<br><br>👯 I’m looking to collaborate on any product for quality and usable product<br><br>👨‍💻 All of my projects are available here https://github.com/ujale<br><br>💬 Ask me about anything related to software testing and quality assurance<br><br>📫 How to reach me basseyudeme37@yahoo.com<br><br><br><br>
+I am a software quality assurance engineer with over 6 years of experience working in the Information Technology
+industry across various FinTech (banking, lending, bookkeeping) and social applications. Versed in the art of manual and automation testing of APIs, web, and mobile applications using tools and frameworks such as Cypress, Selenium, Katalon, Postman, Appium, Nightwatch, Cucumber, etc. Beyond carrying out functional-based component, integration, system, regression, and acceptance test, I also carry out non-functional tests such as performance (load, stress, smoke, spike), security tests, accessibility testing, visual-regression testing, database testing using tools like Apache JMeter, BlazeMeter, K6, Loader.io, Pynt, Burp Suite, OWAPS ZAP, Immuniweb, Percy, Applitool-eyes, lighthouse, axe Devtools, etc.
+
+🔭 I’m currently working on KippaPay & MVT Projects<br><br>🌱 I’m currently learning Flutter App Automation and Laravel<br><br>👯 I’m looking to collaborate on any project that requires the delivery of world-class, high-quality and customer satisfactory products<br><br>👨‍💻 All of my projects are available here https://github.com/ujale<br><br>💬 Ask me about anything related to software testing, quality assurance and how to help people with non-tech educational backgrounds transition into software testing<br><br>📫 How to reach me basseyudeme37@yahoo.com<br><br><br><br>⚡ Fun fact I current head a team of really smart engineers at Kippa Africa
 
 
 ## 🌐 Socials:
