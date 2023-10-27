@@ -6,7 +6,7 @@ industry across various FinTech (banking, lending, bookkeeping) and social appli
 
 
 
-🔭 I’m currently working on KippaPay & MVT Projects<br><br>🌱 I’m currently learning Flutter App Automation and Laravel<br><br>👯 I’m looking to collaborate on any project that requires the delivery of world-class, high-quality and customer satisfactory products<br><br>👨‍💻 All of my projects are available here https://github.com/ujale<br><br>💬 Ask me about anything related to software testing, quality assurance and how to help people with non-tech educational backgrounds transition into software testing<br><br>📫 How to reach me basseyudeme37@yahoo.com<br><br>⚡ Fun fact I current head a team of really smart engineers at Kippa Africa<br><br><br><br>
+🔭 I’m currently working on a volunteering web application called MyVoluntier used to find, track, and mobilize individuals to better impact their communities.<br><br>🌱 I’m currently learning Flutter App Automation and Javal<br><br>👯 I’m looking to collaborate on any project that requires the delivery of world-class, high-quality and customer satisfactory products<br><br>👨‍💻 All of my projects are available here https://github.com/ujale<br><br>💬 Ask me about anything related to software testing, quality assurance and how to help people with non-tech educational backgrounds transition into software testing<br><br>📫 How to reach me basseyudeme37@yahoo.com<br><br>⚡ Fun fact I current head a team of really smart engineers at Kippa Africa<br><br><br><br>
 
 
 ## 🌐 Socials:
